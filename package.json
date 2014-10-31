@@ -1,0 +1,29 @@
+{
+	"name": "miyojs-filter-raw",
+	"version": "1.0.0",
+	"description": "raw - raw value proxy filter for Miyo",
+	"keywords": ["miyojs", "miyojs-filter"],
+	"main": "raw.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+		"coffee-script": ">= 1.8.0",
+		"mocha": ">= 1.20.1",
+		"chai": ">= 1.9.2",
+		"sinon": ">= 1.10.3",
+		"istanbul": ">= 0.3.2",
+		"miyojs": ">= 1.0.3"
+	},
+	"author": {
+		"name": "narazaka",
+		"url": "http://narazaka.net/"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Narazaka/miyojs-filter-raw.git"
+	}
+}
